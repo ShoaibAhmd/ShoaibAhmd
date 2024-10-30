@@ -23,9 +23,9 @@ I have over **5 years of experience** building robust and scalable backend syste
 
 ## ✍️ Latest Articles
 - [**Build and Deploy a Serverless NestJS (NodeJS) Application with Serverless Framework**](https://medium.com/@shoaibahmd/build-and-deploy-a-serverless-nestjs-nodejs-application-with-serverless-framework-95741ced3e70): How to use serverless framework along with NestJS to streamline serverless deployment process.
-- [**Reducing Cognitive Load: The Impact of Bad Coding Practices**]([link](https://medium.com/@shoaibahmd/reducing-cognitive-load-the-impact-of-bad-coding-practices-0a45927c37cd)): .
+- [**Reducing Cognitive Load: The Impact of Bad Coding Practices**](https://medium.com/@shoaibahmd/reducing-cognitive-load-the-impact-of-bad-coding-practices-0a45927c37cd): .
   What is Cognitive Load and How to avoid the coding practices which lead to increased cognitive load.
 ---
 
 ## 🌐 Connect with Me
-[LinkedIn]([link](https://www.linkedin.com/in/shoaib-ahmd/)) | [Medium]([link](https://medium.com/@shoaibahmd)) 
+[LinkedIn](https://www.linkedin.com/in/shoaib-ahmd/) | [Medium]((https://medium.com/@shoaibahmd) 
