@@ -1,4 +1,4 @@
-# <span align="center">👋 Hi there, I'm Shoaib Ahmed!</span>
+# 👋 Hi there, I'm Shoaib Ahmed!
 
 **Software Engineer | Backend Developer**  
 I have over **5 years of experience** building robust and scalable backend systems, especially using **Node.js, TypeScript, and AWS**. I thrive in startup environments and am passionate about crafting clean, maintainable code that aligns with best practices. 
@@ -28,4 +28,4 @@ I have over **5 years of experience** building robust and scalable backend syste
 ---
 
 ## 🌐 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/shoaib-ahmd/) | [Medium]((https://medium.com/@shoaibahmd) 
+[LinkedIn](https://www.linkedin.com/in/shoaib-ahmd/) | [Medium](https://medium.com/@shoaibahmd) 
