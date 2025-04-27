@@ -1,14 +1,14 @@
 # 👋 Hi there, I'm Shoaib Ahmed!
 
 **Software Engineer | Backend Developer**  
-I have over **5 years of experience** building robust and scalable backend systems, especially using **Node.js, TypeScript, and AWS**. I thrive in startup environments and am passionate about crafting clean, maintainable code that aligns with best practices. 
+I have over **6 years of experience** building robust and scalable backend systems, especially using **Node.js, TypeScript, and AWS**. I thrive in startup environments and am passionate about crafting clean, maintainable code that aligns with best practices. 
 
 ---
 
 ## 🔧 Technologies & Tools
 - **Languages**: JavaScript, TypeScript, SQL, Python
 - **Backend**: Node.js, Express.js, NestJS, .NET, Python (Django)
-- **Databases**: PostgreSQL, MySQL
+- **Databases**: PostgreSQL, MySQL, Elasticsearch
 - **DevOps & Cloud**: Docker, AWS (EC2, SQS), CircleCI
 - **Others**: TypeORM, Socket.IO, Event-Driven Architectures, Micro-Services, CI/CD
 
